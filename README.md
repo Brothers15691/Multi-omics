@@ -191,3 +191,7 @@ flowchart LR
 - “Integration” ≠ “causal”.
 - “Nice separation in latent space” ≠ “biological truth”.
 - Conclusions are only as good as preprocessing, validation, and confounding control.
+
+## Further reading
+
+See `docs/06_further_reading.md`.
