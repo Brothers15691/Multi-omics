@@ -1,0 +1,10 @@
+[project]
+name = "multi-omics"
+version = "0.1.0"
+description = "Practical Multi-Omics Integration (DIABLO, DIVAS, VAEs + essentials)"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "numpy",
+  "pandas",
+]
