@@ -182,9 +182,9 @@ To get closer to causality you usually need:
 
 ```mermaid
 flowchart LR
-  A[Multi-omics integration\n(DIABLO / DIVAS / MOFA / VAE)] --> B[Hypotheses:\nmodules & links]
-  B --> C[Stronger evidence:\nperturbation, time, causal models]
-  C --> D[Mechanistic claim\n(with assumptions stated)]
+  A[Multi-omics integration<br/>(DIABLO / DIVAS / MOFA / VAE)] --> B[Hypotheses<br/>modules and links]
+  B --> C[Stronger evidence<br/>perturbation, time, causal models]
+  C --> D[Mechanistic claim<br/>(with assumptions stated)]
 ```
 
 ## Final honesty check
